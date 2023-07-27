@@ -819,7 +819,7 @@ a.hire-btn:hover{
     background-image: url('https://github.com/Arifeenmahmud/resumesite/blob/master/img/20230101_123612.jpg?raw=true');
 }
 #hire{
-    background-image: url('http://placehold.it/1920x1024');
+    background-image: url('https://github.com/Arifeenmahmud/resumesite/blob/master/img/WhatsApp%20Image%202023-07-06%20at%2017.21.21.jpg?raw=true');
 }
 #qoutes{
     background-image: url('http://placehold.it/1920x1024');
@@ -827,11 +827,11 @@ a.hire-btn:hover{
 /* 6 - Home
 ------------------------------------------------------------------------*/
 #home{
-    background: url('http://placehold.it/1920x1024');
+    background: url('https://github.com/Arifeenmahmud/resumesite/blob/master/img/WhatsApp%20Image%202023-07-06%20at%2017.21.21.jpg?raw=true');
     background-attachment: fixed !important;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;      
+    background-size: cover;
 }
 .home-parallax {  
 }
